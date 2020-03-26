@@ -5,5 +5,9 @@ int main()
 {
 	//saltImage();
 	//colorReduceImage();
-	colorReduceImage1();
+	//colorReduceImage1();
+	//sharpenImage();
+	//addImage();
+	//split();
+	wave();
 }
